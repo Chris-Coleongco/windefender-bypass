@@ -22,3 +22,7 @@ create stage listener => stage-listener --url http://<attacker ip>:<listener por
 
 use a different port from the other listener. mtls defaults to port 8888
 
+DISCLAIMER
+
+DONT BE AN ASSHOLE AND USE THIS ON PPL. dis is for educational poipoises
+
