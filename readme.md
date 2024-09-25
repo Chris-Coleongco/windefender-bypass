@@ -2,7 +2,9 @@ compile this stager with attacker ip and AES key and iv with extension whatever.
 
 the exe generated from this will be send to the target windows machine
 
+this stager is to be used with the Sliver Adversary Emulation Framework
 
+https://github.com/BishopFox/sliver
 
 ----
 
